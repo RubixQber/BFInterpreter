@@ -1,6 +1,8 @@
 # BFInterpreter
 Joshua Lowe
+
 Adv. Topics in Computer Science
+
 April 3, 2020
 
 This program acts as an interpreter for the "Brazilian Fumarole" language,
